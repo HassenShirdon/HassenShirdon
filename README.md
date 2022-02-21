@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HassenShirdon
-- 👀 I’m interested in Javascript full stack development
-- 🌱 I’m currently learning full stack javascript 
-- 💞️ I’m looking to collaborate on Javascript community
+- 👀 I’m interested in data Analyst
+- 🌱 I’m currently learning data Science 
+- 💞️ I’m looking to collaborate on Data analysis/Analytics community
 - 📫 How to reach me hassen.hared@gmail.com
 
 <!---
