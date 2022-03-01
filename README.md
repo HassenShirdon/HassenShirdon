@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HassenShirdon
-- 👀 I’m interested in data Analyst
+- 👀 I’m interested in data Scientist
 - 🌱 I’m currently learning data Science 
 - 💞️ I’m looking to collaborate on Data analysis/Analytics community
 - 📫 How to reach me hassen.hared@gmail.com
